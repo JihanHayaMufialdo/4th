@@ -10,9 +10,9 @@ int main()
 	}
 	
 	for (int a=5 ; a>0 ; a--){
-        for (int b=0 ; b<a-1 ; b++){
+        	for (int b=0 ; b<a-1 ; b++){
 			cout << "*" ;
 		}
-		    cout << endl;
+		cout << endl;
 	}
 }
