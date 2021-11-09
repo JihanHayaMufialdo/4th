@@ -3,32 +3,6 @@ using namespace std;
 
 int main (){
 	
-	/* 
-	   NAMA  : JIHAN HAYA MUFIALDO
-	   NPM   : 2117051095
-	   KELAS : B
-	*/
-	
-	/* 
-	   SOAL : Buatlah sebuah program untuk menghitung total beserta rata-rata dari hasil penjumlahan
-	          sejumlah N bilangan.
-	          
-	          Format Input  > Baris pertama berisi inputan N jumlah bilangan
-	                          Baris kedua sampai ke N berisi inputan bilangan yang akan dihitung rata"nya
-							 
-			  Format Output > Baris pertama berisi output total penjumlahan N bilangan
-			                  Baris kedua berisi output rata-rata dari penjumlahan N bilangan
-			                  
-			  Contoh Input  > 4
-			                  30
-			                  30
-			                  20
-			                  20
-			                 
-			  Contoh Output > total penjumlahan : 100
-			                  rata-rata         : 25
-	*/
-	
 	cout << "============================================" << endl;
 	cout << " PROGRAM MENGHITUNG TOTAL BESERTA RATA-RATA " << endl;
 	cout << "============================================" << endl;
