@@ -1,0 +1,20 @@
+Buatlah sebuah program untuk menghitung total beserta rata rata dari hasil penjumlahan sejumlah N bilangan
+
+Format input
+Baris pertama berisi inputan N jumlah bilangan
+Baris kedua sampai ke N berisi inputan bilangan yang akan dihitung rata" nya
+
+Format Output
+Baris pertama berisi output total penjumlahan N bilangan
+Baris kedua berisi output rata rata dari penjumlahan N bilangan
+
+Contoh input
+4
+30
+30
+20
+20
+
+Contoh Output
+total penjumlahan : 100
+rata-rata         : 25
