@@ -1,1 +1,39 @@
+// Syntax :
 
+for (inisialisasi; kondisi; update) {
+    // body of-loop (statement)
+}
+
+- Inisialisasi = merupakan nilai awal yang diberikan kepada suatu variabel tertentu yang kemudian akan digunakan sebagai counter. 
+Selama nilai i masih memenuhi syarat kondisi maka pengeksekusian baris perintah di dalam blok for dapat dilakukan. 
+Ketika nilai variabel i mencapai suatu nilai tertentu atau kondisi bernilai false maka perulangan akan dihentikan. 
+Inisialisasi hanya akan dieksekusi sebanyak 1 kali pada awal proses perulangan.
+
+- Kondisi = merupakan bagian yang akan diuji setiap akan dilakukannya perulangan. Selama kondisi bernilai true atau benar, 
+maka statement di dalam blok perulangan for akan dieksekusi. Setelah pengeksekusian kondisi kembali diuji setelah proses increment atau decrement dilakukan.
+
+- Update (Increment / Decrement) adalah bagian yang berfungsi untuk merubah nilai dari variabel pada bagian inisialisasi. 
+Perubahan dapat berupa penambahan atau pengurangan dengan jumlah tertentu. Tujuannya adalah agar suatu saat kondisi bernilai false atau salah sehingga perulangan terhenti.
+
+Increment = variabel++
+Decrement = variabel--
+
+//CONTOH
+
+- Program :
+
+#include <iostream>
+using namespace std;
+int main() {
+    for(int i=0; i<5; i++){
+        cout << "ini contoh perulangan" <<endl;
+    }
+}
+
+- Cmd / Output :
+
+ini contoh perulangan
+ini contoh perulangan
+ini contoh perulangan
+ini contoh perulangan
+ini contoh perulangan
