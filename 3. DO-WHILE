@@ -13,10 +13,15 @@ while (condition);
 
 //CONTOH
 
+- Program :
+
   int i = 1;
   do {
     cout << "Hello World" << endl;
     i++;
   }
-  while (i <= 5);
+  while (i >= 5);
  
+- Output :
+
+Hello World
