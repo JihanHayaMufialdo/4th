@@ -1,1 +1,25 @@
+- BREAK digunakan untuk keluar dari loop lebih awal tanpa menunggu kondisi false.
+- Ketika break statement di eksekusi dalam loop, loop akan segera dihentikan.
+- Program akan terus berjalan mengeksekusi kode diluar loop yang sudah di break.
 
+// Syntax :
+
+break;
+
+//CONTOH
+
+- Program :
+
+  while(true){
+		cout << "Jihan\n";
+		cout << "Haya\n";
+		break;
+		cout << "Mufialdo\n";
+	}
+	cout << "JHM";
+
+- Output :
+
+Jihan
+Haya
+JHM
