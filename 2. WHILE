@@ -6,3 +6,15 @@ while(boolean expression){
 
 - while loop akan mengevaluasi boolean expression.
 - statement dalam curly brace akan dieksekusi selagi boolean expression bernilai true.
+
+● While Loop yang Tidak Pernah Berjalan :
+- Ada kemungkinan dimana loop tidak pernah dijalankan.
+- Jika kondisi boolean expression yang dijalankan sudah langsung salah.
+
+//CONTOH
+
+int i = 0;
+while(i>=10){
+    cout << i << endl;
+    i++;
+}
