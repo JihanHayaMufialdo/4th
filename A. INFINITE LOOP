@@ -5,3 +5,6 @@ Infinite loop terjadi jika:
 - Statement yang ada dalam loop tidak pernah mengatur boolean condition menjadi false.
 
 
+- Kita akan terjebak dalam infinite loop jika kita menulis boolean condition yang tidak pernah mengevaluasi false.
+- Jika ini terjadi, loop akan terus tereksekusi hingga kita menginterupsi command.
+- Kita harus menghindari ini dengan cara selalu memverifikasi boolean expression untuk memastikan loop berjalan normal.
