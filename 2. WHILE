@@ -1,1 +1,8 @@
+// Syntax :
 
+while(boolean expression){
+    //pernyataan;
+}
+
+- while loop akan mengevaluasi boolean expression.
+- statement dalam curly brace akan dieksekusi selagi boolean expression bernilai true.
