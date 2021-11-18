@@ -1,12 +1,22 @@
 // Syntax :
 
-while(boolean expression){
+while(kondisi){
     //pernyataan;
 }
 
 - while loop akan mengevaluasi boolean expression.
 - statement dalam curly brace akan dieksekusi selagi boolean expression bernilai true.
 
+//CONTOH
+
+ int ddp;
+ ddp = 0;
+ while(ddp<8){
+     cout<<"Belajar C++ Bareng Pak Dwi\n";
+     ddp++;
+ }
+ 
+ 
 ● While Loop yang Tidak Pernah Berjalan :
 - Ada kemungkinan dimana loop tidak pernah dijalankan.
 - Jika kondisi boolean expression yang dijalankan sudah langsung salah.
