@@ -1,4 +1,4 @@
-Infinite Loop -> Salah satu error yang sering terjadi ketika menggunakan loop.
+Infinite Loop -> Salah satu error yang sering terjadi ketika menggunakan loop, dimana program tidak berhenti melakukan perulangan/looping.
 
 Infinite loop terjadi jika:
 - Condition expression pada loop selalu mengevaluasi true.
