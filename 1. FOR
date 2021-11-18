@@ -11,10 +11,10 @@ Inisialisasi hanya akan dieksekusi sebanyak 1 kali pada awal proses perulangan.
 
 - Kondisi = merupakan bagian yang akan diuji setiap akan dilakukannya perulangan. Selama kondisi bernilai true atau benar, 
 maka statement di dalam blok perulangan for akan dieksekusi. Setelah pengeksekusian kondisi kembali diuji setelah proses increment atau decrement dilakukan.
+Menggunakan operator perbandingan : ==, !=, <, >, <=, >=
 
 - Update (Increment / Decrement) adalah bagian yang berfungsi untuk merubah nilai dari variabel pada bagian inisialisasi. 
 Perubahan dapat berupa penambahan atau pengurangan dengan jumlah tertentu. Tujuannya adalah agar suatu saat kondisi bernilai false atau salah sehingga perulangan terhenti.
-
 Increment = variabel++
 Decrement = variabel--
 
