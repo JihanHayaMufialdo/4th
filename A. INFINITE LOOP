@@ -1,1 +1,7 @@
+Infinite Loop -> Salah satu error yang sering terjadi ketika menggunakan loop.
+
+Infinite loop terjadi jika:
+- Condition expression pada loop selalu mengevaluasi true.
+- Statement yang ada dalam loop tidak pernah mengatur boolean condition menjadi false.
+
 
