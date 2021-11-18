@@ -1,1 +1,16 @@
+- Adakalanya kita ingin melewatkan loop saat ini tetapi tidak mengakhiri loop seperti menggunakan break.
+- Kita bisa menggunakan continue statement untuk melewati loop/iterasi sekarang.
+   - Keseluruhan statement dalam body loop akan dilewati, tetapi berlanjut ke loop berikutnya.
+   
+// Syntax :
 
+continue;
+
+//CONTOH
+
+while(kondisi){
+    pernyataan1;
+    pernyataan2;
+    continue; // loop akan berhenti disini, lalu kembali lagi ke atas.
+    pernyataan3;
+}
