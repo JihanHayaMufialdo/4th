@@ -1,1 +1,20 @@
+Untuk mengeksekusi multiple/beberapa statement dalam loop diperlukan:
+- Curly brace (kurung kurawal) / {} sebagai pembatas.
+- Jika tidak, hanya satu statement yang dieksekusi.
 
+//CONTOH
+
+- Program Benar :
+
+for (int i=1 ; i<=5 ; i++){
+    cout << i ; 
+    cout << "." << endl;
+}
+
+- Output Benar :
+
+1.
+2.
+3.
+4.
+5.
