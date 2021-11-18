@@ -1,1 +1,22 @@
+Do While -> Perulangan DO WHILE merupakan modifikasi dari perulangan WHILE, yakni dengan memindahkan posisi pemeriksaan kondisi ke akhir perulangan. 
+            Artinya, lakukan dahulu sebuah perulangan, baru periksa apakah kondisi variabel counter sudah terpenuhi atau belum di akhir perulangan.
+            
+- Do While loop memungkinkan kita mengeksekusi loop minimal sekali, sebelum menguji boolean condition.
 
+// Syntax :
+
+do
+{
+  //pernyataan;
+} 
+while (condition);
+
+//CONTOH
+
+  int i = 1;
+  do {
+    cout << "Hello World" << endl;
+    i++;
+  }
+  while (i <= 5);
+ 
