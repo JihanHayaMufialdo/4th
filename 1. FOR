@@ -20,7 +20,7 @@ Decrement = variabel--
 
 //CONTOH
 
-- Program :
+- Source Code :
 
 #include <iostream>
 using namespace std;
