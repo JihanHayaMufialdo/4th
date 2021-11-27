@@ -4,14 +4,14 @@ Untuk mengeksekusi multiple/beberapa statement dalam loop diperlukan:
 
 //CONTOH
 
-- Program Benar :
+- Source Code Benar :
 
 for (int i=1 ; i<=5 ; i++){
     cout << i ; 
     cout << "." << endl;
 }
 
-- Output Benar :
+- Cmd / Output Benar :
 
 1.
 2.
@@ -19,12 +19,12 @@ for (int i=1 ; i<=5 ; i++){
 4.
 5.
 
-- Program Salah :
+- Source Code Salah :
 
 for (int i=1 ; i<=5 ; i++)
     cout << i ; 
     cout << "." << endl;
     
-- Output Salah :
+- Cmd / Output Salah :
 
 12345.
