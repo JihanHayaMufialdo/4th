@@ -17,7 +17,7 @@ while(kondisi){
  }
  
  
-● While Loop yang Tidak Pernah Berjalan :
+// While Loop yang Tidak Pernah Berjalan :
 - Ada kemungkinan dimana loop tidak pernah dijalankan.
 - Jika kondisi boolean expression yang dijalankan sudah langsung salah.
 
