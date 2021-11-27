@@ -3,6 +3,7 @@ Do While -> Perulangan DO WHILE merupakan modifikasi dari perulangan WHILE, yakn
             
 - Do While loop memungkinkan kita mengeksekusi loop minimal sekali, sebelum menguji boolean condition.
 
+
 // Syntax :
 
 do
@@ -11,9 +12,10 @@ do
 } 
 while (condition);
 
+
 //CONTOH
 
-- Program :
+- Source Code :
 
   int i = 1;
   do {
@@ -22,6 +24,6 @@ while (condition);
   }
   while (i >= 5);
  
-- Output :
+- Cmd / Output :
 
 Hello World
