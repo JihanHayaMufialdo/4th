@@ -17,7 +17,7 @@ int main(){
 		mvprintw(i,i,"A");
 	}
 	
-	for(int i=0; i<=5; i++){
+	for(int i=4; i<=5; i++){
 		mvprintw(i,i,"J");
 	}
 	
