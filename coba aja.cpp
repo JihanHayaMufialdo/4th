@@ -14,7 +14,11 @@ int main(){
 	}
 	
 	for(int i=3; i<=8; i++){
-		mvprintw(i,i,"");
+		mvprintw(i,i,"A");
+	}
+	
+	for(int i=0; i<=5; i++){
+		mvprintw(i,i,"J");
 	}
 	
 	
