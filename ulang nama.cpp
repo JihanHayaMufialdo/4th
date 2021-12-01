@@ -37,5 +37,6 @@ initscr();
 	
 getch();
 endwin();
+	
 }		
 	
