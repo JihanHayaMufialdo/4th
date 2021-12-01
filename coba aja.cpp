@@ -9,6 +9,14 @@ int main(){
 		mvprintw(i,i,"I");
 	}
 	
+	for(int i=2; i<=7; i++){
+		mvprintw(i,i,"H");
+	}
+	
+	for(int i=3; i<=8; i++){
+		mvprintw(i,i,"");
+	}
+	
 	
 }		
 	
