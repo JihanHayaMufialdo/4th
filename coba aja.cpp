@@ -1,5 +1,7 @@
 #include <ncurses\ncurses.h>
 int main(){
+
+initscr();
 	
 	for(int i=0; i<=5; i++){
 		mvprintw(i,i,"J");
@@ -21,6 +23,7 @@ int main(){
 		mvprintw(i,i,"N");
 	}
 	
-	
+getch();
+endwin();
 }		
 	
