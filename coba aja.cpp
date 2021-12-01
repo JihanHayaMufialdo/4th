@@ -16,11 +16,11 @@ initscr();
 	}
 	
 	for(int i=3; i<=8; i++){
-		mvprintw(i,i,"A");
+		mvprintw(i,i+6,"A");
 	}
 	
 	for(int i=4; i<=9; i++){
-		mvprintw(i,i,"N");
+		mvprintw(i,i+8,"N");
 	}
 	
 getch();
