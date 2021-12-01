@@ -8,11 +8,11 @@ initscr();
 	}
 	
 	for(int i=1; i<=6; i++){
-		mvprintw(i,i,"I");
+		mvprintw(i,i+2,"I");
 	}
 	
 	for(int i=2; i<=7; i++){
-		mvprintw(i,i,"H");
+		mvprintw(i,i+4,"H");
 	}
 	
 	for(int i=3; i<=8; i++){
