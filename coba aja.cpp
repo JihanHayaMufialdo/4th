@@ -1,4 +1,6 @@
 #include <ncurses\ncurses.h>
+#include <windows.h>
+
 int main(){
 
 initscr();
