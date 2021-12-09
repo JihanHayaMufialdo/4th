@@ -12,14 +12,7 @@ void waktu(){
 		cout << i;
 		Sleep(1000);
 		system("cls");
-		
-		if(i==0){
-		cout << "WAKTU HABIS\n";
-		cout << "Score : " << score;
-		}
 	}
-	
-	
 }
 
 int main(){
