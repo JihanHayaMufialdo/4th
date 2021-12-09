@@ -5,7 +5,7 @@ using namespace std;
 
 void waktu(){
 	
-	int i;
+	int n;
 	
 	for(int i=5; i>=0 ; i--){
 		cout << "waktu : ";
