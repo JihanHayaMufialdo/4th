@@ -7,7 +7,7 @@ void waktu(){
 	
 	int n;
 	
-	for(int i=5; i>=0 ; i--){
+	for(int i=n; i>=0 ; i--){
 		cout << "waktu : ";
 		cout << i;
 		Sleep(1000);
