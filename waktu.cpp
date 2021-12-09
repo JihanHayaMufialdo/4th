@@ -3,8 +3,6 @@
 
 using namespace std;
 
-int score=0;
-
 void waktu(){
 	
 	int i;
