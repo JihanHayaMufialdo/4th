@@ -11,5 +11,9 @@ int main(){
 		cout << "nyawa : " << nyawa;
 		cout << "\n\nlawan kata malas : ";
 		cin >> s;
+		if (s=="rajin" || s=="Rajin" || s=="RAJIN"){
+			cout << "MENANG\n\n";
+			
+		}
 	}
 }
