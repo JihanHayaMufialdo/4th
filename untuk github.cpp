@@ -20,7 +20,6 @@ int main(){
 		}
 		if(nyawa==0){
 			cout << "KALAH\n\n";
-			system("pause");
 		}
 	}
 }
