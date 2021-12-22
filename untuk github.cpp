@@ -13,13 +13,14 @@ int main(){
 		cin >> s;
 		if (s=="rajin" || s=="Rajin" || s=="RAJIN"){
 			cout << "MENANG\n\n";
+			system("pause");
 		}
 		else{
 			nyawa-=1;
 		}
 		if(nyawa==0){
 			cout << "KALAH\n\n";
-			
+			system("pause");
 		}
 	}
 }
