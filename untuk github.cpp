@@ -13,7 +13,9 @@ int main(){
 		cin >> s;
 		if (s=="rajin" || s=="Rajin" || s=="RAJIN"){
 			cout << "MENANG\n\n";
-			
+		}
+		else{
+			nyawa-=1;
 		}
 	}
 }
