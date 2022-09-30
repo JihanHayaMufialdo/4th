@@ -11,6 +11,6 @@ continue;
 while(kondisi){
     pernyataan1;
     pernyataan2;
-    continue; // loop akan berhenti disini, lalu kembali lagi ke atas.
+    continue;
     pernyataan3;
 }
